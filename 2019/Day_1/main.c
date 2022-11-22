@@ -4,6 +4,7 @@
 
 FILE *fptr;
 int t_mass = 0;
+int Question_2(int m);
 
 int main(){
     fptr = fopen("input.txt", "r");
